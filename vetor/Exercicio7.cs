@@ -8,7 +8,7 @@ namespace vetores
     {
         static void Main()
         {
-            Console.WriteLine("Digite o tamanho do vetor");
+            Console.WriteLine("Digite o tamanho do vetor []");
             int n = int.Parse(Console.ReadLine());
 
             int[] vetor1 = new int[n];
